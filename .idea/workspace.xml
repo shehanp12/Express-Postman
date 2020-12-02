@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="459d255f-7bf2-472d-9cad-be625a7ab020" name="Default Changelist" comment="middleware">
+    <list default="true" id="459d255f-7bf2-472d-9cad-be625a7ab020" name="Default Changelist" comment="app js">
+      <change afterPath="$PROJECT_DIR$/Routers/api/members.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,7 @@
       <workItem from="1606823343864" duration="2751000" />
       <workItem from="1606848335168" duration="1396000" />
       <workItem from="1606895257082" duration="11000" />
-      <workItem from="1606904322125" duration="4034000" />
+      <workItem from="1606904322125" duration="6273000" />
     </task>
     <task id="LOCAL-00001" summary="nodemon install">
       <created>1606824069946</created>
@@ -108,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606907987972</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="app js">
+      <created>1606909961136</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606909961136</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +136,7 @@
     <MESSAGE value="nodemon install" />
     <MESSAGE value="memebers json object" />
     <MESSAGE value="middleware" />
-    <option name="LAST_COMMIT_MESSAGE" value="middleware" />
+    <MESSAGE value="app js" />
+    <option name="LAST_COMMIT_MESSAGE" value="app js" />
   </component>
 </project>
